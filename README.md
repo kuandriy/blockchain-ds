@@ -1,13 +1,13 @@
 # blockchain-ds
 
-Simple blockchain datastracture implementation
+###### Simple blockchain datastracture implementation
 
-Initialize:
-blockchain = require('./blockchain-ds')({complication:5});
--complication defines new block mining process difficulty
+- Initialize:
+const blockchain = require('./blockchain-ds')({complication:5});
+`complication` defines new block mining process difficulty
 
-Add new block
+- Add new block
 blockchain.addBlock({});
 
-Check chain is valid:
+- Check chain is valid:
 blockchain.isChainValid());
