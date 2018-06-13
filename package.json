@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-ds",
+  "version": "1.0.0",
+  "description": "Simple blockchain data structure",
+  "main": "blockchain-ds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuandriy/blockchain-ds.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Andriy K",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "bugs": {
+    "url": "https://github.com/kuandriy/blockchain-ds/issues"
+  },
+  "homepage": "https://github.com/kuandriy/blockchain-ds#readme"
+}
